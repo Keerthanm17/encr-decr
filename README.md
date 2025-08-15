@@ -2,7 +2,7 @@
 
 A secure, client-side encryption and decryption tool built with Next.js and Web Crypto API.
 
-#Deployment Server
+## Deployment Server
 https://encr-decr.netlify.app/
 
 ## Features
