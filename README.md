@@ -2,6 +2,9 @@
 
 A secure, client-side encryption and decryption tool built with Next.js and Web Crypto API.
 
+#Deployment Server
+https://encr-decr.netlify.app/
+
 ## Features
 
 - **AES-256 Encryption**: Uses industry-standard AES-256-GCM encryption
