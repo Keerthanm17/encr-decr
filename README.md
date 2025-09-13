@@ -112,13 +112,7 @@ This application requires a modern browser with Web Crypto API support:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Deployment
 
-### Deploy to Vercel
-
-The easiest way to deploy this Next.js app is using Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=<your-repo-url>)
 
 ### Other Platforms
 
