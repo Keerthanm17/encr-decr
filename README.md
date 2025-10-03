@@ -1,4 +1,3 @@
-2
 1
 # Simple Encryption Website
 
