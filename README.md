@@ -1,6 +1,5 @@
 3
 2
-1
 # Simple Encryption Website
 
 A secure, client-side encryption and decryption tool built with Next.js and Web Crypto API.
